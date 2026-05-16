@@ -2,27 +2,15 @@
   "users": [
     {
       "id": 1,
-      "name": "Alice",
-      "email": "alice@email.com",
-      "age": 25
+      "name": "Alice2",
+      "email": "alice2@email.com",
+      "age": "30"
     },
     {
-      "id": 2,
-      "name": "Bob",
-      "email": "bob@email.com",
-      "age": "32"
-    },
-    {
-      "name": "hamid",
-      "email": "a@gmail.com",
-      "age": "18",
-      "id": 3
-    },
-    {
-      "name": "Hamid",
-      "email": "a@gmail.com",
-      "age": "12",
-      "id": 4
+      "name": "Naeem",
+      "email": "b@gmail.com",
+      "age": "20",
+      "id": 2
     }
   ]
 }

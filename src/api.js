@@ -10,6 +10,8 @@ export const getUsers = () => API.get("/users");
 // GET one user
 export const getUser = (id) => API.get(`/users/${id}`);
 
+export const searchUsers = (query) => API.get(`/users?q=${query}`);
+
 // POST - create user
 export const createUser = (data) => API.post("/users", data);
 
